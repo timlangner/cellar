@@ -91,8 +91,10 @@ you can [buy a coffee](https://ko-fi.com/cellarfm).
 <details>
 <summary><b>Do I need YouTube Premium?</b></summary>
 
-You need a YouTube Music account. YouTube Premium perks, including ad-free listening and
-Premium audio, are Google's and stay with Google. Cellar is the client and doesn't change them.
+No. Cellar works with a **free** YouTube Music account and with a **Premium** one. Sign in
+with whichever you already have, no upgrade needed. If you do have Premium, its perks
+(like ad-free listening and higher-quality audio) are tied to your Google account and
+stay with Google. Cellar doesn't add or remove them.
 </details>
 
 <details>
